@@ -10,11 +10,15 @@ All code and course materials that are used in the course of "Chemo-informatics 
 
 All topics can be studied in any order, but there are some dependencies so it is recommended to follow the provided order.
 
-It is recommended to have some basic knowledge of the `Python` programming language. For users that need a refresh, or for those that are not familiar with `Python`, we have prepared some basic refresher notes:
+It is recommended to have some basic knowledge of the `Python` programming language. For users that need a refresh, or for those that are not familiar with `Python`, we have prepared some basic refresher notes in the course material:
 
 - [Chapter 1: Introduction to Python](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/1-Introduction_to_Python.pdf) [pdf]
 
-You can refresh your `Python` skills in these `Google Colab` environments:
+An interesting refresher is also available on YouTube:
+
+- [Python for beginners - Learn Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=70s)
+
+You can test your `Python` skills in these `Google Colab` environments:
 
 - [Python refresher code](https://colab.research.google.com/github/UAMCAntwerpen/2040FBDBIC/blob/master/Basic_Python_Refresher.ipynb) [Google Colab]
 - [Python refresher exercises](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Basic_Python_Refresher_Exercises.ipynb) [Google Colab]
@@ -75,7 +79,7 @@ In order to make full use of this lessons, it is highly recommended to prepare y
 
 In order to get acquainted with all the concepts that have been covered, these `Google Colab` links allow you to do some exercise:
 
-- [Chemical informatics with RDKit](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_02/Clustering_and_machine_learning.ipynb) [Google Colab]
+- [Clustering and machine learning with RDKit](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_02/Clustering_and_machine_learning.ipynb) [Google Colab]
 - [Extra exercises](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_02/Topic_02_exercises.ipynb) [Google Colab]
 
 
