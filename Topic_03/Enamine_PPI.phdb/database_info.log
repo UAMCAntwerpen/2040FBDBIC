@@ -1,0 +1,234 @@
+********************************************************************************
+
+phase_database: Fri Dec  2 18:07:43 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_1.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_1
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_1.mae.gz
+-new
+-nocopy
+-start 1
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 166 records added
+Total number of records stored = 166
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:07:51 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_2.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_2
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_2.mae.gz
+-new
+-nocopy
+-start 5001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 159 records added
+Total number of records stored = 159
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:07:59 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_3.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_3
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_3.mae.gz
+-new
+-nocopy
+-start 10001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 163 records added
+Total number of records stored = 163
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:08:06 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_4.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_4
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_4.mae.gz
+-new
+-nocopy
+-start 15001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 164 records added
+Total number of records stored = 164
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:08:14 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_5.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_5
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_5.mae.gz
+-new
+-nocopy
+-start 20001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 170 records added
+Total number of records stored = 170
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:08:22 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_6.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_6
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_6.mae.gz
+-new
+-nocopy
+-start 25001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 159 records added
+Total number of records stored = 159
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:08:30 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_7.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_7
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_7.mae.gz
+-new
+-nocopy
+-start 30001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 169 records added
+Total number of records stored = 169
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:08:38 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/subDB_8.phdb
+Task = import
+Job name = phasedb_3-MANAGE_phase_sub_8
+Options:
+-HOST localhost
+-fmt xyz
+-i /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb/database_restart/file_8.mae.gz
+-new
+-nocopy
+-start 35001
+-unlock
+
+Adding molecules to database . . .
+
+
+A total of 171 records added
+Total number of records stored = 171
+
+********************************************************************************
+
+Updating top-level database files for "/Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb" . . .
+Top-level files successfully updated
+
+A total of 1321 records added via parallel import
+Total number of records stored = 1321
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:09:48 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb
+Task = revise
+Job name = phasedb_3-CONFSITES_revise
+Options:
+-HOST localhost:8
+-amide trans
+-bf 10
+-confs auto
+-ewin 25.0
+-max 10
+-role parent
+-sample rapid
+-setup
+
+Setup for parent job complete
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:10:50 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb
+Task = revise
+Job name = phasedb_3-CONFSITES_revise
+Options:
+-cleanup
+-role parent
+
+Revision of 1321 out of 1321 records completed
+Average number of conformers per revised record = 10.00
+Total number of records stored = 1321
+
+********************************************************************************
+
+phase_database: Fri Dec  2 18:11:53 2022
+
+Database = /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb
+Task = extract
+Job name = phasedb_3-CONFSITES_extract
+Options:
+-HOST localhost:8
+-append
+-map
+
+Extracting properties . . .
+All properties extracted
+

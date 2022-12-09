@@ -1,0 +1,8 @@
+Fri Dec  2 18:09:49 2022
+phase_database /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb revise phasedb_3-CONFSITES_revise -HOST localhost:8 -amide trans -bf 10 -confs auto -ewin 25.0 -max 10 -role parent -sample rapid -setup
+
+Fri Dec  2 18:10:51 2022
+phase_database /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb revise phasedb_3-CONFSITES_revise -cleanup -role parent
+
+Fri Dec  2 18:11:54 2022
+phase_database /Users/hans/Repository/UAMCAntwerpen/2040FBDBIC/Class_03/Enamine_PPI.phdb extract phasedb_3-CONFSITES_extract -HOST localhost:8 -append -map
