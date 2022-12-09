@@ -60,8 +60,7 @@ In this part of the course, you will be introduced to molecular fingerprints and
 In order to make full use of this lessons, it is highly recommended to prepare yourselves by reading the following two scientific review papers:
 
 - [Molecular fingerprint similarity search in virtual screening](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Molecular_fingerprints.pdf) [pdf]
-- [Applications of machine learning in
-drug discovery and development](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Machine_learning.pdf) [pdf]
+- [Applications of machine learning in drug discovery and development](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Machine_learning.pdf) [pdf]
 
 #### **Course manuals:**
 
@@ -90,8 +89,7 @@ In this serie of lessons, the general concepts of docking, virtual screening and
 
 It is highly recommended that you prepare yourselves by reading the following scientific papers in advance:
 
-- [A systematic analysis of atomic protein–ligand
-interactions in the PDB](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/MedChemComm_2017_8_1970.pdf) [pdf]
+- [A systematic analysis of atomic protein–ligand interactions in the PDB](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/MedChemComm_2017_8_1970.pdf) [pdf]
 - [Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method
 and Assessment of Docking Accuracy](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/Glide.pdf) [pdf]
 - [Ligand binding efficiency: trends, physical basis, and implications](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/JMedChem_2008_51_2432.pdf) [pdf]
@@ -117,7 +115,6 @@ To practice the lessons learned, we make use of a [virtual workstation](https://
 
 
 
-
 ## **Topic 4 - Force fields, molecular mechanics and dynamics**
 
 In this serie of lessons, the general concepts of a force field are explained. Buidling further upon this, concept of moelcular mechanics and molecular dynamics are highlighted.
@@ -138,6 +135,25 @@ It is highly recommended that you prepare yourselves by reading the following sc
 - [Lecture slides of topic 04](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_04/Slides_04.pdf) [pdf]
 
 
+
+## **Topic 5 - Computational drug design and artificial intelligence in the pharmaceutical industry**
+
+In this lesson, you will learn how state-of-the-art computational drug design is used in a pharmaceutical context. The links with artificial intelligence are also highlighted with examples.
+
+This course was prepared and presented by Dr. Dries Van Rompay, a scientist at Johnson & Johnson in Beerse.
+
+#### **Prepare yourself:**
+
+Have a look at the following overview papers to get yourselves acquainted with the topic:
+
+- [Artificial intelligence: a novel approach for drug discovery](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_and_DD.pdf) [pdf]
+- [Advancing drug discovery via artificial intelligence](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_and_industry.pdf) [pdf]
+
+<!---
+#### **Slides:**
+
+- [Lecture slides of topic 05](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/Slides_05.pdf) [pdf]
+--->
 
 </br>
 
