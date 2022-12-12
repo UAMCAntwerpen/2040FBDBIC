@@ -144,7 +144,7 @@ It is highly recommended that you prepare yourselves by reading the following sc
 
 In this lesson, you will learn how state-of-the-art computational drug design is used in a pharmaceutical context. The links with artificial intelligence are also highlighted with examples.
 
-This course was prepared and presented by Dr. Dries Van Rompay, a scientist at Johnson & Johnson in Beerse.
+This course is prepared and presented by Dr. Dries Van Rompay, a scientist at Johnson & Johnson in Beerse.
 
 #### **Prepare yourself:**
 
@@ -153,11 +153,9 @@ Have a look at the following overview papers to get yourselves acquainted with t
 - [Artificial intelligence: a novel approach for drug discovery](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_and_DD.pdf) [pdf]
 - [Advancing drug discovery via artificial intelligence](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_and_industry.pdf) [pdf]
 
-<!---
 #### **Slides:**
 
-- [Lecture slides of topic 05](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/Slides_05.pdf) [pdf]
---->
+- [Lecture slides of topic 05](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_in_drug_discovery.pdf) [pdf]
 
 </br>
 
