@@ -14,9 +14,9 @@ It is advantage to have some basic knowledge of the `Python` programming languag
 
 - [Chapter 1: Introduction to Python](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/1-Introduction_to_Python.pdf) [pdf]
 
-An interesting refresher is also available on YouTube:
+An interesting refresher is available on YouTube:
 
-- [Python for beginners - Learn Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=70s) [YouTube]
+- [Python for beginners - Learn Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=70s) [YouTube - 60'05"]
 
 Finally, you can test your `Python` skills in these `Google Colab` environments:
 
@@ -31,9 +31,10 @@ In this part you will learn how molecules are stored and manipulated by the comp
 
 It is highly recommended that you prepare yourselves by first going through the following papers and movie:
 
+- [String-based representations of molecules: SMILES, SMARTS and SELFIES](https://www.youtube.com/watch?v=w9SV2mNSBMk) [YouTube - 15'00"]
 - [A review of molecular representation in the age of machine learning](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Review_of_molecular_representation_in_the_age_of_machine_learning.pdf) [pdf]
 - [The RDKit documentation](https://www.rdkit.org/docs/) [website]
-- [String-based representations of molecules: SMILES, SMARTS and SELFIES](https://www.youtube.com/watch?v=w9SV2mNSBMk) [YouTube - 15'00"]
+
 
 #### Course manuals:
 
@@ -62,10 +63,10 @@ In this part of the course, you will be introduced to molecular fingerprints and
 
 In order to make full use of this lessons, it is highly recommended to prepare yourselves by reading the following review papers and movies:
 
-- [Molecular fingerprint similarity search in virtual screening](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Molecular_fingerprints.pdf) [pdf]
-- [Applications of machine learning in drug discovery and development](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Machine_learning.pdf) [pdf]
 - [Molecular strings and fingerprints](https://www.youtube.com/watch?v=kBk8HbjWwCw) [YouTube - 17'25"]
 - [Supervised and unsupervised learning](https://www.youtube.com/watch?v=TJveOYsK6MY) [YouTube - 2'47"]
+- [Molecular fingerprint similarity search in virtual screening](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Molecular_fingerprints.pdf) [pdf]
+- [Applications of machine learning in drug discovery and development](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Machine_learning.pdf) [pdf]
 
 #### Course manuals:
 
@@ -94,14 +95,14 @@ In this serie of lessons, the general concepts of docking, virtual screening and
 
 It is highly recommended that you prepare yourselves by reading the following scientific papers in advance:
 
+- [What's the difference between structure based and ligand based virtual screening?](https://www.youtube.com/watch?v=fMbVB_huh28) [YouTube - 2'14"]
+- [What is molecular docking?](https://www.youtube.com/watch?v=EI7ojGoLLUk) [YouTube - 5'48"]
 - [A systematic analysis of atomic protein–ligand interactions in the PDB](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/MedChemComm_2017_8_1970.pdf) [pdf]
 - [Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method
 and Assessment of Docking Accuracy](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/Glide.pdf) [pdf]
 - [Ligand binding efficiency: trends, physical basis, and implications](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/JMedChem_2008_51_2432.pdf) [pdf]
 - [Pharao: Pharmacophore alignment and optimization](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/Pharao.pdf) [pdf]
 - [A practical guide to large-scale docking](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_03/Guide_To_Docking.pdf) [pdf]
-- [What's the difference between structure based and ligand based virtual screening?](https://www.youtube.com/watch?v=fMbVB_huh28) [YouTube - 2'14"]
-- [What is molecular docking?](https://www.youtube.com/watch?v=EI7ojGoLLUk) [YouTube - 5'48"]
 
 #### Course manual:
 
@@ -128,8 +129,9 @@ In this serie of lessons, the general concepts of a force field are explained. B
 
 #### Prepare yourself:
 
-It is highly recommended that you prepare yourselves by reading the following scientific paper well in advance:
+It is highly recommended that you prepare yourselves by go through the following scientific paper and movie well in advance:
 
+- [Molecular mechanics and dynamics](https://www.youtube.com/watch?v=A9awBW-Gczk&t=85s) [YouTube - 5'12"]
 - [Computational chemistry: molecular mechanics, dynamics and force fields](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_04/Computational_chemistry_paper.pdf) [pdf]
 
 #### Course manual:
@@ -153,10 +155,12 @@ The AI part of this course is prepared and presented by Dr. Dries Van Rompay, a 
 
 Have a look at the following overview papers and movie to get yourselves acquainted with the topic:
 
+- [AI-enabled drug discovery](https://www.youtube.com/watch?v=RPBDhogTIT0) [YouTube - 4'07"]
+- [Virtual reality for drug discovery](https://www.youtube.com/watch?v=beYyi0p0L5Y) [YouTube - 2'24"]
 - [Artificial intelligence: a novel approach for drug discovery](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_and_DD.pdf) [pdf]
 - [Advancing drug discovery via artificial intelligence](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/AI_and_industry.pdf) [pdf]
 - [The emerging potential of interactive virtual reality in drug discovery](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_05/The_emerging_potential_of_interactive_virtual_reality_in_drug_discovery.pdf) [pdf]
-- [Virtual reality for drug discovery](https://www.youtube.com/watch?v=beYyi0p0L5Y) [YouTube - 2'24"]
+
 
 #### Slides:
 
