@@ -10,7 +10,7 @@ All code and course materials that are used in the course of "Chemo-informatics 
 
 All topics can be studied in any order, but there are some dependencies so it is recommended to follow the order as shown below.
 
-It is advantage to have some basic knowledge of the `Python` programming language. For users that need a refresh, or for those that are not familiar with `Python`, we have prepared some basic refresher notes in the course material:
+It is advantage to have some basic knowledge of the Python programming language. For users that need a refresh, or for those that are not familiar with Python, we have prepared some basic refresher notes in the course material:
 
 - [Chapter 1: Introduction to Python](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/1-Introduction_to_Python.pdf) [pdf]
 
@@ -47,7 +47,7 @@ It is highly recommended that you prepare yourselves by first going through the 
 
 #### Exercises:
 
-With the following `Google Colab` sessions, you can bring to practice all that has been learned in this lessons:
+With the following Google Colab sessions, you can bring to practice all that has been learned in this lessons:
 
 - [Chemical informatics with RDKit](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Chemical_informatics_with_RDKit.ipynb) [Google Colab]
 - [Extra exercises](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Topic_01_exercises.ipynb) [Google Colab]
@@ -57,12 +57,13 @@ With the following `Google Colab` sessions, you can bring to practice all that h
 
 ## Topic 2 - Clustering and machine learning
 
-In this part of the course, you will be introduced to molecular fingerprints and how these are used in similarity searches and clustering algorithms. Following this, you will be introduced to QSAR and learn to build a number of machine learning models in `Google Colab`.
+In this part of the course, you will be introduced to molecular fingerprints and how these are used in similarity searches and clustering algorithms. Following this, you will be introduced to QSAR and learn to build a number of machine learning models in Google Colab.
 
 #### Prepare yourself:
 
 In order to make full use of this lessons, it is highly recommended to prepare yourselves by reading the following review papers and movies:
 
+- [Machine learning and metrics](https://www.youtube.com/watch?v=xK9wHHQfGYA&list=LL&index=1) [YouTube - 24'48"]
 - [Molecular strings and fingerprints](https://www.youtube.com/watch?v=kBk8HbjWwCw) [YouTube - 17'25"]
 - [Supervised and unsupervised learning](https://www.youtube.com/watch?v=TJveOYsK6MY) [YouTube - 2'47"]
 - [Molecular fingerprint similarity search in virtual screening](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Molecular_fingerprints.pdf) [pdf]
@@ -79,7 +80,7 @@ In order to make full use of this lessons, it is highly recommended to prepare y
 
 #### Exercises:
 
-In order to get acquainted with all the concepts that have been covered, these `Google Colab` links allow you to do some exercise:
+In order to get acquainted with all the concepts that have been covered, these Google Colab links allow you to do some exercise:
 
 - [Clustering and machine learning with RDKit](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_02/Clustering_and_machine_learning.ipynb) [Google Colab]
 - [Extra exercises](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_02/Topic_02_exercises.ipynb) [Google Colab]
