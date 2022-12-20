@@ -1,6 +1,9 @@
 markdown: kramdown
 theme: minima
 
+title: 2040FBDBIC
+description: Chemo-informatics and computational drug design
+
 minima:
   date_format: "%b %-d, %Y"
   

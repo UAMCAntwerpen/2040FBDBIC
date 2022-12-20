@@ -3,4 +3,5 @@
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'auto' }}",
-  "minima/initialize";
+  "minima/initialize",
+  "minima/admonition";
