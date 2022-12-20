@@ -5,11 +5,11 @@ layout: home
 
 All code and course materials that are used in the course of <a href="https://www.uantwerpen.be/nl/studeren/aanbod/alle-opleidingen/biochemie-en-biotechnologie/master/studieprogramma/" target="_blank">Chemo-informatics and computational drug design</a> at the Biochemistry department of the University of Antwerp can be found in this repository. The course is divided into five **topics**:
 
-1. [Representing molecules in the computer](Topic_01.md)
-2. [Clustering and machine learning](Topic_02.md)
-3. [Molecular docking, virtual screening and pharmacophore searching](Topic_03.md)
-4. [Molecular mechanics and dynamics](Topic_04.md)
-5. [Artificial intelligence and virtual reality in computational drug design](Topic_05.md)
+1. [Representing molecules in the computer](/Topic_01)
+2. [Clustering and machine learning](/Topic_02)
+3. [Molecular docking, virtual screening and pharmacophore searching](/Topic_03)
+4. [Molecular mechanics and dynamics](/Topic_04)
+5. [Artificial intelligence and virtual reality in computational drug design](/Topic_05)
 
 All topics can be studied in any order, but there are some dependencies so it is recommended to follow the order as shown above.
 
@@ -30,7 +30,7 @@ Finally, you can test your `Python` skills in these `Google Colab` environments:
 
 ## Finished?
 
-Then it is time to move to the first topic of this course: [Topic 1: Representing molecules in the computer](Topic_01.md).
+Then it is time to move to the first topic of this course: [Topic 1: Representing molecules in the computer](/Topic_01).
 
 <br>
 Note: this course and accompanying course material has been developed with financial support of the <a href="https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf" target="_blank">European Union Recovery and Resilience Facility (RRF)</a>.

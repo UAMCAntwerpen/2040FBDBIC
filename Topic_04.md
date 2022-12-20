@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Topic 4
+permalink: /Topic_04
 ---
 
 # Topic 4 - Force fields, molecular mechanics and dynamics
