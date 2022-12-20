@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Topic 1
-permalink: /Topic_01
+#permalink: /Topic_01
 ---
 
 # Topic 1 - Representing molecules in the computer
@@ -37,6 +37,6 @@ With the following Google Colab sessions, you can bring to practice all that has
 
 ## Finished?
 
-Then it is time to move to the second topic of this course: [Topic 2: Clustering and machine learning](Topic_02).
+Then it is time to move to the second topic of this course: [Topic 2: Clustering and machine learning](Topic_02/Topic_02).
 
-However, if you feel that your `Python` skills are still somewhat behind, then it might be wise to repeat the [intro session again](index).
+However, if you feel that your `Python` skills are still somewhat behind, then it might be wise to repeat the [intro session again](/index).
