@@ -40,6 +40,10 @@ In order to get acquainted with all the concepts that have been covered, these `
 
 ## Finished?
 
-Then it is time to move to the third topic of this course:
+For those that are interested in machine learning for drug discovery, this paper provides an excellent review of the current state-of-the-art on this topic:
+
+- <a href="/Topic_02/Machine-learning-in-drug-discovery-a-review.pdf" download>Machine learning in drug discovery: a review</a>
+
+When finished, it is time to move to the third topic of this course:
 
 - [Topic 3: Molecular docking, virtual screening and pharmacophore searching](Topic_03.md).
