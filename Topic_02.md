@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Topic 2
-permalink: /Topic_02
 ---
 
 # Topic 2 - Clustering and machine learning

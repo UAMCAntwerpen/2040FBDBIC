@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Topic 3
-permalink: /Topic_03
 ---
 
 # Topic 3 - Molecular docking, virtual screening and pharmacophore searching

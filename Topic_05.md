@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Topic 5
-permalink: /Topic_05
 ---
 
 # Topic 5 - Artificial intelligence and virtual reality in computational drug design
