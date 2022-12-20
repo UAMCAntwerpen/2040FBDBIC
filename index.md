@@ -23,8 +23,8 @@ An interesting refresher is available on YouTube:
 
 Finally, you can test your `Python` skills in these `Google Colab` environments:
 
-<a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/Intro/Basic_Python_Refresher.ipynb" target="_blank">Python refresher code</a> [Google Colab]
-<a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/Intro/Basic_Python_Refresher_Exercises.ipynb" target="_blank">Python refresher exercises</a> [Google Colab]
+- <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Intro/Basic_Python_Refresher.ipynb" target="_blank">Python refresher code</a> [Google Colab]
+- <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Intro/Basic_Python_Refresher_Exercises.ipynb" target="_blank">Python refresher exercises</a> [Google Colab]
 
 - [Python refresher code](https://colab.research.google.com/github/UAMCAntwerpen/2040FBDBIC/blob/master/Basic_Python_Refresher.ipynb) [Google Colab]
 - [Python refresher exercises](https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/Basic_Python_Refresher_Exercises.ipynb) [Google Colab]
