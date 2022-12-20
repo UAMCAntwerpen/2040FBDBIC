@@ -48,4 +48,4 @@ Tutorials of the different exercises can be downloaded from these links:
 
 ## Finished?
 
-Then it is time to move to the fourth topic of this course: [Topic 4: Molecular mechanics and dynamics](/Topic_04).
+Then it is time to move to the fourth topic of this course: [Topic 4: Molecular mechanics and dynamics](Topic_04.md).

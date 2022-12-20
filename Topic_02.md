@@ -40,4 +40,4 @@ In order to get acquainted with all the concepts that have been covered, these `
 
 ## Finished?
 
-Then it is time to move to the third topic of this course: [Topic 3: Molecular docking, virtual screening and pharmacophore searching](/Topic_03).
+Then it is time to move to the third topic of this course: [Topic 3: Molecular docking, virtual screening and pharmacophore searching](Topic_03.md).

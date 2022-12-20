@@ -29,4 +29,4 @@ It is highly recommended that you prepare yourselves by go through the following
 
 ## Finished?
 
-Then it is time to move to the fifth and last topic of this course: [Topic 5: Artificial intelligence and virtual reality in computational drug design](/Topic_05).
+Then it is time to move to the fifth and last topic of this course: [Topic 5: Artificial intelligence and virtual reality in computational drug design](Topic_05.md).
