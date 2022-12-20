@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Topic 1
+permalink: /Topic_01
 ---
 
 # Topic 1 - Representing molecules in the computer
