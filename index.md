@@ -30,7 +30,7 @@ Finally, you can test your `Python` skills in these `Google Colab` environments:
 
 ## Finished?
 
-Then it is time to move to the first topic of this course: [Topic 1: Representing molecules in the computer](/Topic_01).
+Then it is time to move to the first topic of this course: [Topic 1: Representing molecules in the computer](Topic_01).
 
 <br>
 Note: this course and accompanying course material has been developed with financial support of the <a href="https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf" target="_blank">European Union Recovery and Resilience Facility (RRF)</a>.
