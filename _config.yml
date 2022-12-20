@@ -17,3 +17,10 @@ header_pages:
   - Topic_03.md
   - Topic_04.md
   - Topic_05.md
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: false
