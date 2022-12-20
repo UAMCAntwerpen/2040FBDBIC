@@ -2,7 +2,7 @@
 
 All code and course materials that are used in the course of "Chemo-informatics and computational drug design" at the University of Antwerp can be found in this repository. 
 
-The course can best be viewed using GitHub Pages at <a href="https://uamcantwerpen.github.io/2040FBDBIC/" target="_blank">https://uamcantwerpen.github.io/2040FBDBIC/</a>
+The course is best viewed at <a href="https://uamcantwerpen.github.io/2040FBDBIC/" target="_blank">https://uamcantwerpen.github.io/2040FBDBIC/</a>
 
 
 > **Note**

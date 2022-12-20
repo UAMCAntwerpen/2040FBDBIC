@@ -26,12 +26,17 @@ Finally, you can test your `Python` skills in these `Google Colab` environments:
 - <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Intro/Basic_Python_Refresher.ipynb" target="_blank">Python refresher code</a> [Google Colab]
 - <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Intro/Basic_Python_Refresher_Exercises.ipynb" target="_blank">Python refresher exercises</a> [Google Colab]
 
-{% include admonition.html type="note" title="Note" body="You first have to create a Google account before you can start using Google Colab." %}
 
-## Finished?
+Note: you first have to create a Google account before you can start using Google Colab. You can do this by going to <a href="https://colab.research.google.com" target="_blank">Google Colab</a> and create your account.
 
-Then it is time to move to the first topic of this course: [Topic 1: Representing molecules in the computer](Topic_01.md).
+
+# Finished?
+
+Then it is time to move to the first topic of this course:
+
+- [Topic 1: Representing molecules in the computer](Topic_01.md).
 
 <br>
-Note: this course and accompanying course material has been developed with financial support of the <a href="https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf" target="_blank">European Union Recovery and Resilience Facility (RRF)</a>.
+
+Note: This course and accompanying course material has been developed with financial support of the <a href="https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf" target="_blank">European Union Recovery and Resilience Facility (RRF)</a>.
 
