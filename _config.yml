@@ -1,2 +1,9 @@
 markdown: kramdown
 theme: minima
+
+minima:
+  date_format: "%b %-d, %Y"
+  
+author:
+  name: Hans De Winter
+  email: "hans.dewinter@uantwerpen.be"
