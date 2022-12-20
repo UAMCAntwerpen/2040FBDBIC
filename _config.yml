@@ -7,3 +7,10 @@ minima:
 author:
   name: Hans De Winter
   email: "hans.dewinter@uantwerpen.be"
+
+header_pages:
+  - Topic_01.md
+  - Topic_02.md
+  - Topic_03.md
+  - Topic_04.md
+  - Topic_05.md
