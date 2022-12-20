@@ -35,7 +35,3 @@ Then it is time to move to the first topic of this course: [Topic 1: Representin
 <br>
 Note: this course and accompanying course material has been developed with financial support of the <a href="https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf" target="_blank">European Union Recovery and Resilience Facility (RRF)</a>.
 
-<pre>
-<img src="/assets/img/rrf_logo.png" width="300px">
-</pre>
-
