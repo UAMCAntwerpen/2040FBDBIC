@@ -15,17 +15,17 @@ It is highly recommended that you prepare yourselves by first having a look at t
 
 Then you should have a good read of this paper:
 
-- <a href="/Topic_01/Review_of_molecular_representation_in_the_age_of_machine_learning.pdf" download>A review of molecular representations in the age of machine learning</a> [pdf]
+- <a href="Topic_01/Review_of_molecular_representation_in_the_age_of_machine_learning.pdf" download>A review of molecular representations in the age of machine learning</a> [pdf]
 
 
 ## Course manuals:
 
-- <a href="/Topic_01/2-Representing_molecules_in_the_computer.pdf" download>Chapter 2: Representing molecules in the computer</a> [pdf]
-- <a href="/Topic_01/3-Chemical_informatics_with_RDKit.pdf" download>Chapter 3: Chemical informatics with RDKit</a> [pdf]
+- <a href="Topic_01/2-Representing_molecules_in_the_computer.pdf" download>Chapter 2: Representing molecules in the computer</a> [pdf]
+- <a href="Topic_01/3-Chemical_informatics_with_RDKit.pdf" download>Chapter 3: Chemical informatics with RDKit</a> [pdf]
 
 ## Slides:
 
-- <a href="/Topic_01/Slides_01.pdf" download>Lecture slides of topic 01</a> [pdf]
+- <a href="Topic_01/Slides_01.pdf" download>Lecture slides of topic 01</a> [pdf]
 
 ## Exercises:
 
