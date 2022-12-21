@@ -17,21 +17,21 @@ It is highly recommended that you prepare yourselves by first having a look at t
 
 Now you should be ready to have a look at these papers:
 
-- <a href="/Topic_03/MedChemComm_2017_8_1970.pdf" download>A systematic analysis of atomic protein–ligand interactions in the PDB</a> [pdf]
-- <a href="/Topic_03/Glide.pdf" download>Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy</a> [pdf]
-- <a href="/Topic_03/JMedChem_2008_51_2432.pdf" download>Ligand binding efficiency: trends, physical basis, and implications</a> [pdf]
-- <a href="/Topic_03/Pharao.pdf" download>Pharao: Pharmacophore alignment and optimization</a> [pdf]
-- <a href="/Topic_03/Guide_To_Docking.pdf" download>A practical guide to large-scale docking</a> [pdf]
+- <a href="Topic_03/MedChemComm_2017_8_1970.pdf" download>A systematic analysis of atomic protein–ligand interactions in the PDB</a> [pdf]
+- <a href="Topic_03/Glide.pdf" download>Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy</a> [pdf]
+- <a href="Topic_03/JMedChem_2008_51_2432.pdf" download>Ligand binding efficiency: trends, physical basis, and implications</a> [pdf]
+- <a href="Topic_03/Pharao.pdf" download>Pharao: Pharmacophore alignment and optimization</a> [pdf]
+- <a href="Topic_03/Guide_To_Docking.pdf" download>A practical guide to large-scale docking</a> [pdf]
 
 
 ## Course manual:
 
-- <a href="/Topic_03/6-Virtual_screening.pdf" download>Chapter 6: Virtual screening</a> [pdf]
+- <a href="Topic_03/6-Virtual_screening.pdf" download>Chapter 6: Virtual screening</a> [pdf]
 
 
 ## Slides:
 
-- <a href="/Topic_03/Slides_03.pdf" download>Lecture slides of topic 03</a> [pdf]
+- <a href="Topic_03/Slides_03.pdf" download>Lecture slides of topic 03</a> [pdf]
 
 
 ## Exercises:
@@ -41,9 +41,9 @@ To practice the lessons learned, we make use of a <a href="https://teaching2-soc
 
 Tutorials of the different exercises can be downloaded from these links:
 
-- <a href="/Topic_03/gb-docking-ls.pdf" download>Tutorial 1: a protein-ligand docking exercise</a> [pdf]
-- <a href="/Topic_03/bs-sbvs-ls.pdf" download>Tutorial 2: a structure-based virtual screening exercise</a> [pdf]
-- <a href="/Topic_03/Pharmacophore_Searching.pdf" download>Tutorial 3: a pharmacophore searching exercise</a> [pdf]
+- <a href="Topic_03/gb-docking-ls.pdf" download>Tutorial 1: a protein-ligand docking exercise</a> [pdf]
+- <a href="Topic_03/bs-sbvs-ls.pdf" download>Tutorial 2: a structure-based virtual screening exercise</a> [pdf]
+- <a href="Topic_03/Pharmacophore_Searching.pdf" download>Tutorial 3: a pharmacophore searching exercise</a> [pdf]
 
 
 ## Finished?

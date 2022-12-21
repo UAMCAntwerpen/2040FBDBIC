@@ -18,17 +18,17 @@ In order to make full use of this lessons, it is highly recommended to prepare y
 
 Then have a thorough read of these papers:
 
-- <a href="/Topic_02/Molecular-fingerprint-similarity-search-in-virtual-screening.pdf" download>Molecular fingerprint similarity search in virtual screening</a> [pdf]
-- <a href="/Topic_02/Applications-of-machine-learning-in-drug-discovery-and-development.pdf" download>Applications of machine learning in drug discovery and development</a> [pdf]
+- <a href="Topic_02/Molecular-fingerprint-similarity-search-in-virtual-screening.pdf" download>Molecular fingerprint similarity search in virtual screening</a> [pdf]
+- <a href="Topic_02/Applications-of-machine-learning-in-drug-discovery-and-development.pdf" download>Applications of machine learning in drug discovery and development</a> [pdf]
 
 ## Course manuals:
 
-- <a href="/Topic_02/4-Fingerprints,_molecular_similarity_and_clustering.pdf" download>Chapter 4: Fingerprints, molecular similarity and clustering</a> [pdf]
-- <a href="/Topic_02/5-QSAR_models.pdf" download>Chapter 5: QSAR models</a> [pdf]
+- <a href="Topic_02/4-Fingerprints,_molecular_similarity_and_clustering.pdf" download>Chapter 4: Fingerprints, molecular similarity and clustering</a> [pdf]
+- <a href="Topic_02/5-QSAR_models.pdf" download>Chapter 5: QSAR models</a> [pdf]
 
 ## Slides:
 
-- <a href="/Topic_02/Slides_02.pdf" download>Lecture slides of topic 02</a> [pdf]
+- <a href="Topic_02/Slides_02.pdf" download>Lecture slides of topic 02</a> [pdf]
 
 ## Exercises:
 
@@ -42,7 +42,7 @@ In order to get acquainted with all the concepts that have been covered, these `
 
 For those that are interested in machine learning for drug discovery, this paper provides an excellent review of the current state-of-the-art on this topic:
 
-- <a href="/Topic_02/Machine-learning-in-drug-discovery-a-review.pdf" download>Machine learning in drug discovery: a review</a>
+- <a href="Topic_02/Machine-learning-in-drug-discovery-a-review.pdf" download>Machine learning in drug discovery: a review</a>
 
 When finished, it is time to move to the third topic of this course:
 
