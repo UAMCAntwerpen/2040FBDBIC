@@ -12,6 +12,7 @@ author:
   email: "hans.dewinter@uantwerpen.be"
 
 header_pages:
+  - Planning.md
   - Topic_01.md
   - Topic_02.md
   - Topic_03.md
