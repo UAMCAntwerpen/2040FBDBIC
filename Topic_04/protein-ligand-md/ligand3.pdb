@@ -8,36 +8,44 @@ HETATM    7  C11 LIG A 167      21.693 -26.459  -2.954  1.00 16.72           C
 HETATM    8  C12 LIG A 167      22.294 -25.187  -3.075  1.00 14.13           C  
 HETATM    9  C13 LIG A 167      22.463 -24.414  -1.808  1.00 15.94           C  
 HETATM   10  C14 LIG A 167      23.925 -24.704  -1.394  1.00 15.28           C  
-HETATM   11  H01 LIG A 167      23.560 -23.216  -3.449  1.00 13.88           H  
-HETATM   12  H02 LIG A 167      23.057 -25.160  -6.405  1.00 15.93           H  
-HETATM   13  H04 LIG A 167      21.040 -28.175  -4.073  1.00 16.92           H  
-HETATM   14  H05 LIG A 167      21.352 -26.834  -1.989  1.00 16.72           H  
-HETATM   15  H06 LIG A 167      21.743 -24.698  -1.041  1.00 15.94           H  
-HETATM   16  H07 LIG A 167      22.311 -23.348  -1.979  1.00 15.94           H  
-HETATM   17  H08 LIG A 167      24.026 -25.786  -1.309  1.00 15.28           H  
-HETATM   18  H09 LIG A 167      24.588 -24.287  -2.152  1.00 15.28           H  
-HETATM   19  H10 LIG A 167      25.135 -23.442  -0.196  1.00 16.39           H  
-HETATM   20  H11 LIG A 167      23.443 -23.579   0.337  1.00 16.39           H  
-HETATM   21  H12 LIG A 167      24.575 -24.926   0.612  1.00 16.39           H  
-CONECT    1    6   11
-CONECT    2   10   19   20   21
-CONECT    3    4    7   13
-CONECT    4    3    5
-CONECT    5    4    6   12
+HETATM   11  C01 LIG A 167      21.956 -27.643  -6.579  1.00 14.84           C  
+HETATM   12  H03 LIG A 167      21.439 -28.566  -6.319  1.00 14.84           H  
+HETATM   13  H13 LIG A 167      22.954 -27.876  -6.950  1.00 14.84           H  
+HETATM   14  H14 LIG A 167      21.395 -27.118  -7.353  1.00 14.84           H  
+HETATM   15  H01 LIG A 167      23.560 -23.216  -3.449  1.00 13.88           H  
+HETATM   16  H02 LIG A 167      23.057 -25.160  -6.405  1.00 15.93           H  
+HETATM   17  H04 LIG A 167      21.040 -28.175  -4.073  1.00 16.92           H  
+HETATM   18  H05 LIG A 167      21.352 -26.834  -1.989  1.00 16.72           H  
+HETATM   19  H06 LIG A 167      21.743 -24.698  -1.041  1.00 15.94           H  
+HETATM   20  H07 LIG A 167      22.311 -23.348  -1.979  1.00 15.94           H  
+HETATM   21  H08 LIG A 167      24.026 -25.786  -1.309  1.00 15.28           H  
+HETATM   22  H09 LIG A 167      24.588 -24.287  -2.152  1.00 15.28           H  
+HETATM   23  H10 LIG A 167      25.135 -23.442  -0.196  1.00 16.39           H  
+HETATM   24  H11 LIG A 167      23.443 -23.579   0.337  1.00 16.39           H  
+HETATM   25  H12 LIG A 167      24.575 -24.926   0.612  1.00 16.39           H  
+CONECT    1    6   15
+CONECT    2   10   23   24   25
+CONECT    3    4    7   17
+CONECT    4    3    5   11
+CONECT    5    4    6   16
 CONECT    6    1    5    8
-CONECT    7    3    8   14
+CONECT    7    3    8   18
 CONECT    8    6    7    9
-CONECT    9    8   10   15   16
-CONECT   10    2    9   17   18
-CONECT   11    1
-CONECT   12    5
-CONECT   13    3
-CONECT   14    7
-CONECT   15    9
-CONECT   16    9
-CONECT   17   10
-CONECT   18   10
-CONECT   19    2
-CONECT   20    2
-CONECT   21    2
+CONECT    9    8   10   19   20
+CONECT   10    2    9   21   22
+CONECT   11    4   12   13   14
+CONECT   12   11
+CONECT   13   11
+CONECT   14   11
+CONECT   15    1
+CONECT   16    5
+CONECT   17    3
+CONECT   18    7
+CONECT   19    9
+CONECT   20    9
+CONECT   21   10
+CONECT   22   10
+CONECT   23    2
+CONECT   24    2
+CONECT   25    2
 END

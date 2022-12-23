@@ -33,9 +33,13 @@ We will make use of a `Google Colab` environment to run molecular dynamics simul
 
 - <a href="Topic_04/md-sims-making-it-rain-paper.pdf" download>Making it rain: cloud-based molecular simulations for everyone</a> [pdf]
 
-The original repository with additional simulations is available on the <a href="https://github.com/pablo-arantes/Making-it-rain" target="_blank">Github repository of Pablo Arantes</a>, the author of the original paper. In this course, we will run a simulation of a protein-ligand complex in a water box. We will simulate the complex, calculate the binding free energy using the <a href="Topic_04/mm-pbsa-paper.pdf" download>MM-PBSA method</a>, and compare this with a series of other ligands:
+The original repository with additional simulations is available on the <a href="https://github.com/pablo-arantes/Making-it-rain" target="_blank">Github repository of Pablo Arantes</a>, the author of the original paper. In this course, we will run a simulation of a protein-ligand complex in a water box. 
 
 - <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_04/Protein_ligand_MD.ipynb" target="_blank">Protein-ligand MD simulation</a> [Google Colab]
+
+In this exercise, you will simulate a protein/ligand complex, calculate the binding free energy using the <a href="Topic_04/mm-pbsa-paper.pdf" download>MM-PBSA method</a>, and compare this with a series of other ligands. The ligands that are available are:
+
+<img src="Topic_04/ligands.gif" alt="Ligands"/>
 
 Note: you need a Google Drive account in order to run these simulations. If you don't have this, then <a href="https://support.google.com/drive/answer/2424384?hl=en&co=GENIE.Platform%3DDesktop" target="_blank">you need to setup one</a>.
 
