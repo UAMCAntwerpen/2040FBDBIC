@@ -15,7 +15,7 @@ All topics can be studied in any order, but there are some dependencies so it is
 
 It is advantage to have some basic knowledge of the Python programming language. For users that need a refresh, or for those that are not familiar with Python, we have prepared some basic refresher notes in the course material:
 
-- <a href="/Intro/1-Introduction_to_Python.pdf" download>Chapter 1: Introduction to Python</a> [pdf]
+- <a href="Intro/1-Introduction_to_Python.pdf" download>Chapter 1: Introduction to Python</a> [pdf]
 
 An interesting refresher is available on YouTube:
 
