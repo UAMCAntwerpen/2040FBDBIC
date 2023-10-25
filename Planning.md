@@ -5,13 +5,13 @@ title: Planning
 
 This course takes one semester, and the five topics are covered over a total of 14 classes. The actual planning of these classes is provided in this overview:
 
-| Date  | [Topic 1: Representing molecules in the computer](Topic_01.md) |
+| <div style="width:200px">Date</div>  | [Topic 1: Representing molecules in the computer](Topic_01.md) |
 |:------|:---------------------------------------------------------------|
 | 25/10 | <a href="Topic_01/Slides_01.pdf" download>Lecture slides</a>  |
 | 06/11 | <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Chemical_informatics_with_RDKit.ipynb" target="_blank">Google Colab exercises</a> |
 
 
-| Date  | [Topic 2. Clustering and machine learning](Topic_02.md)       |
+| <div style="width:200px">Date</div>  | [Topic 2. Clustering and machine learning](Topic_02.md)       |
 |:----- |:---------------------------------------------------------------|
 | 06/11 | <a href="Topic_02/Slides_02.pdf" download>Lecture slides</a>  |
 | 10/11 | <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_02/Clustering_and_machine_learning.ipynb" target="_blank">Google Colab exercises</a> |
