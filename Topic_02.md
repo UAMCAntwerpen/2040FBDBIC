@@ -46,4 +46,4 @@ For those that are interested in machine learning for drug discovery, this paper
 
 When finished, it is time to move to the third topic of this course:
 
-- [Topic 3: Molecular docking, virtual screening and pharmacophore searching](Topic_03.md).
+- [Topic 3: Molecular docking, virtual screening and pharmacophore searching](Topic_03.md)

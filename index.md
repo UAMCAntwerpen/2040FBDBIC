@@ -34,9 +34,8 @@ Note: you first have to create a Google account before you can start using Googl
 
 Then it is time to move to the first topic of this course:
 
-- [Topic 1: Representing molecules in the computer](Topic_01.md).
+- [Topic 1: Representing molecules in the computer](Topic_01.md)
 
 <br>
 
 Note: This course and accompanying course material has been developed with financial support of the <a href="https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf" target="_blank">European Union Recovery and Resilience Facility (RRF)</a>.
-

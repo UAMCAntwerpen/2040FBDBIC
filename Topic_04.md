@@ -47,4 +47,4 @@ Note: you need a Google Drive account in order to run these simulations. If you 
 
 Then it is time to move over to the fifth and last topic of this course:
 
-- [Topic 5: Artificial intelligence and virtual reality in computational drug design](Topic_05.md).
+- [Topic 5: Artificial intelligence and virtual reality in computational drug design](Topic_05.md)

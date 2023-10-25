@@ -38,6 +38,6 @@ With the following Google Colab sessions, you can bring to practice all that has
 
 Then it is time to move to the second topic of this course:
 
-- [Topic 2: Clustering and machine learning](Topic_02.md).
+- [Topic 2: Clustering and machine learning](Topic_02.md)
 
 However, if you feel that your `Python` skills are still somewhat behind, then it might be wise to repeat the [intro session again](index.md).
