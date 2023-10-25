@@ -41,5 +41,5 @@ This course takes one semester, and the five topics are covered over a total of 
 
 ## Things to do:
 
-- Activation of your Schrodinger account: see Blackboard
 - Setup of a Google Colab account: <a href="https://colab.research.google.com" target="_blank">https://colab.research.google.com/</a>
+- Activation of your Schrodinger account: see Blackboard
