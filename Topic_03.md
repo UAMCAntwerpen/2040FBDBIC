@@ -38,12 +38,8 @@ Now you should be ready to have a look at these papers:
 
 To practice the lessons learned, we make use of a <a href="https://teach2023-soc-eu-west2.gcp.tsg.schrodinger.com/workstation/#/" target="_blank">virtual workstation</a> with the software tool Maestro from <a href="https://www.schrodinger.com" target="_blank">Schrödinger</a> already installed. You need an account that will provided to you after inscription to this course.
 
----
-**Note**
+> **_NOTE:_**  The virtual workstations work best on *Google Chrome* or *Safari* browsers.
 
-The Virtual Workstation works best on *Google Chrome* or *Safari* browsers.
-
----
 
 Tutorials of the different exercises can be downloaded from these links:
 
@@ -54,6 +50,15 @@ Tutorials of the different exercises can be downloaded from these links:
 
 ## Finished?
 
-Then it is time to move to the fourth topic of this course:
+If you are finished with these exercises, then you are ready to start working on your own virtual drug design project. The steps that need to be followed are:
 
-- [Topic 4: Molecular mechanics and dynamics](Topic_04.md)
+1. Open the <a href="https://teach2023-soc-eu-west2.gcp.tsg.schrodinger.com/workstation/#/" target="_blank">virtual workstation</a> and create a workfolder on the desktop.
+2. Download the compound library into this workfolder. You can do by opening a terminal, move into the workfolder, and run this command `wget https://github/com/UAMCAntwerpen/2040FBDBIC/raw/master/Project-materials/2023-2024/LigPrep_Enamine_Discovery_Diversity_Set.maegz`.
+3. Start Maestro and set the workfolder as being the default folder.
+4. Download your protein of interest from the PDB and prepare as usual. Make sure to optimise the hydrogen atom positions.
+5. Generate a docking grid, and make sure you note the name that the grid was given (it is written in de workfolder).
+6. Setup the virtual screening workflow. Make sure to write out the command line and input file, and **not** launch the job.
+7. Edit the shell script and launch the job from the command line.
+8. Do not close the virtual workstation as then the job is cancelled.
+
+A tutorial is available on <a hreft="https://youtu.be/bX4-nFmLkjM?si=tFrrmJxgkvNSgjhv" target="_blank">YouTube</a>. In this tutorial, it is also shown how you can submit jobs that take a long time by specifying multiple processor cores on the virtual workstation.
