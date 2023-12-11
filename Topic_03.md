@@ -38,7 +38,7 @@ Now you should be ready to have a look at these papers:
 
 To practice the lessons learned, we make use of a <a href="https://teach2023-soc-eu-west2.gcp.tsg.schrodinger.com/workstation/#/" target="_blank">virtual workstation</a> with the software tool Maestro from <a href="https://www.schrodinger.com" target="_blank">Schrödinger</a> already installed. You need an account that will provided to you after inscription to this course.
 
-> **_NOTE:_**  The virtual workstations work best on *Google Chrome* or *Safari* browsers.
+**_NOTE:_**  The virtual workstations work best on *Google Chrome* or *Safari* browsers.
 
 
 Tutorials of the different exercises can be downloaded from these links:
@@ -61,4 +61,4 @@ If you are finished with these exercises, then you are ready to start working on
 7. Edit the shell script and launch the job from the command line.
 8. Do not close the virtual workstation as then the job is cancelled.
 
-A tutorial is available on <a hreft="https://youtu.be/bX4-nFmLkjM?si=tFrrmJxgkvNSgjhv" target="_blank">YouTube</a>. In this tutorial, it is also shown how you can submit jobs that take a long time by specifying multiple processor cores on the virtual workstation.
+A tutorial is available on <a href="https://youtu.be/bX4-nFmLkjM?si=tFrrmJxgkvNSgjhv" target="_blank">YouTube</a>. In this tutorial, it is also shown how you can submit jobs that take a long time by specifying multiple processor cores on the virtual workstation.
