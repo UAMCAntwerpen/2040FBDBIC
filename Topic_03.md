@@ -58,7 +58,7 @@ If you are finished with these exercises, then you are ready to start working on
 4. Download your protein of interest from the PDB and prepare as usual. Make sure to optimise the hydrogen atom positions.
 5. Generate a docking grid, and make sure you note the name that the grid was given (it is written in de workfolder).
 6. Setup the virtual screening workflow. Make sure to write out the command line and input file, and **not** launch the job.
-7. Edit the shell script and launch the job from the command line.
-8. Do not close the virtual workstation as then the job is cancelled.
+7. Edit the shell script and launch the job from the command line. The command should read `"$SCHRODINGER/vws" job_name.inp -OVERWRITE -adjust -HOST cpu:8 -TMPLAUNCHDIR` (`job_name.inp` should be the name of the input file).
+8. Do not close the virtual workstation as long as the job is running.
 
 A tutorial is available on <a href="https://youtu.be/bX4-nFmLkjM?si=tFrrmJxgkvNSgjhv" target="_blank">YouTube</a>. In this tutorial, it is also shown how you can submit jobs that take a long time by specifying multiple processor cores on the virtual workstation.
