@@ -38,6 +38,13 @@ Now you should be ready to have a look at these papers:
 
 To practice the lessons learned, we make use of a <a href="https://teach2023-soc-eu-west2.gcp.tsg.schrodinger.com/workstation/#/" target="_blank">virtual workstation</a> with the software tool Maestro from <a href="https://www.schrodinger.com" target="_blank">Schrödinger</a> already installed. You need an account that will provided to you after inscription to this course.
 
+---
+**Note**
+
+The Virtual Workstation works best on *Google Chrome* or *Safari* browsers.
+
+---
+
 Tutorials of the different exercises can be downloaded from these links:
 
 - <a href="Topic_03/Pharmacophore_Searching.pdf" download>A pharmacophore searching exercise</a> [pdf]
