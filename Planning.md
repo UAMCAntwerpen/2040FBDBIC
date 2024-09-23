@@ -35,7 +35,7 @@ This course takes one semester, and the five topics are covered over a total of 
 | Date   | [Topic 5. Artificial intelligence and VR in computational drug design](Topic_05.md)  |
 |:-------|:--------------------------------------------------------------------------------------|
 | Dec 11 | <a href="Topic_05/AI_in_drug_discovery.pdf" download>Guest lecture</a> |
-| Dec 13 | Virtual reality exercise |
+| Dec 12 | Virtual reality exercise |
 
 
 
