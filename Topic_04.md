@@ -29,11 +29,11 @@ It is highly recommended that you prepare yourselves by go through the following
 
 ## Exercises:
 
-We will make use of a `Google Colab` environment to run molecular dynamics simulations of a real protein system, and a protein-ligand complex. Before running these simulations, it is required to read the following paper very carefully, because the exercises have been cloned from the GitHub repository that is the supplementary material of this paper:
+We will make use of a `Google Colab` environment to run molecular dynamics simulations of a real protein system with a ligand. Before running the simulation, it is required to read the following paper very carefully, because the exercises have been cloned from the GitHub repository that is the supplementary material of this paper:
 
 - <a href="Topic_04/md-sims-making-it-rain-paper.pdf" download>Making it rain: cloud-based molecular simulations for everyone</a> [pdf]
 
-The original repository with additional simulations is available on the <a href="https://github.com/pablo-arantes/Making-it-rain" target="_blank">Github repository of Pablo Arantes</a>, the author of the original paper.
+The Google Colab with the MD simulations is available on <a href="https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb" target="_blank">Github repository of Pablo Arantes</a>, the author of the original paper.
 
 Note: you need a Google Drive account in order to run these simulations. If you don't have this, then <a href="https://support.google.com/drive/answer/2424384?hl=en&co=GENIE.Platform%3DDesktop" target="_blank">you need to setup one</a>.
 
