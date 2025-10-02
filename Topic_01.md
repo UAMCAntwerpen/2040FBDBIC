@@ -34,6 +34,8 @@ With the following Google Colab sessions, you can bring to practice all that has
 - <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Chemical_informatics_with_RDKit.ipynb" target="_blank">Chemical informatics with RDKit</a> [Google Colab]
 - <a href="https://githubtocolab.com/UAMCAntwerpen/2040FBDBIC/blob/master/Topic_01/Topic_01_exercises.ipynb" target="_blank">Extra exercises</a> [Google Colab]
 
+Note: You may find this tutorial on SMARTS patterns useful: <a href="https://www.daylight.com/dayhtml_tutorials/languages/smarts/" target="_blank">Daylight SMARTS tutorial</a>
+
 ## Finished?
 
 Then it is time to move to the second topic of this course:
