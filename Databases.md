@@ -13,11 +13,12 @@ Here you can find a number of compound databases that you can download for use i
 These are files that contain the SMILES and corresponding CODE's of the compounds that can be purchased from the given vendors. Each line
 is composed of the following format:
 
-'''$ head -3 asinex.smi
+```bash
+$ head -3 asinex.smi
 COc1cc(N/N=C/c2ccccc2O)ncn1	BAS-00132206
 C#Cc1ccc(C#C)cc1	BAS-00293357
 Cc1nonc1OCCn1c([N+](=O)[O-])cnc1C	BAS-00505574
-'''
+```
 
 - <a href="Databases/asinex.smi.gz" download>asinex.smi.gz (575,299 compounds)</a>
 - <a href="Databases/chembridge.smi.gz" download>chembridge.smi.gz (790,403 compounds)</a>
@@ -44,7 +45,7 @@ Cc1nonc1OCCn1c([N+](=O)[O-])cnc1C	BAS-00505574
 
 It may be that identical compounds can be found across multiple databases, so before using a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a Python script and keep only the unique ones using a dictionary in which the keys are the SMILES and the values are the CODE's:
 
-'''python
+```python
 import gzip
 
 SMILES2CODE = {}
@@ -85,7 +86,7 @@ for i in range(1,10):
 fo = open("merged.smi", "w")
 for SMILES, CODE in SMILES2CODE.items(): fo.write("%s\t%s\n" % (SMILES, CODE))
 fo.close()
-'''
+```
 
 You can download these files by clicking the links, or using the following commands from within a Python script (exemplified for the Asinex library):
 
