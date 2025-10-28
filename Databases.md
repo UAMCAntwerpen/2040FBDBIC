@@ -35,7 +35,7 @@ COc1cc(N/N=C/c2ccccc2O)ncn1	BAS-00132206
 - <a href="Databases/enamine.9.smi.gz" download>enamine.9.smi.gz</a> (457,752 compounds)
 - <a href="Databases/lifechemicals.smi.gz" download>lifechemicals.smi.gz</a> (545,400 compounds)
 
-You can download these files by clicking the links, or using the following commands from within a Python script (exemplified for the Asinex library):
+You can download these files by clicking the links, or by using the following commands from within a ```python``` script (exemplified for the Asinex library):
 
 ```python
 import requests
@@ -52,7 +52,7 @@ with gzip.open(BytesIO(response.content), mode='rt', encoding='utf-8') as f:
 print(lines[:5])  # preview first 5 lines
 ```
 
-It may be that identical compounds can be found across multiple databases, so before using a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a Python script and keep only the unique ones using a dictionary in which the key is the ```SMILES```` and the value is the ```CODE``` of each compound:
+It may be that identical compounds can be found across multiple databases, so before using a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a Python script and keep only the unique ones using a dictionary in which the key is the ```SMILES``` and the value is the ```CODE``` of each compound:
 
 ```python
 import gzip
