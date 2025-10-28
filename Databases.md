@@ -12,28 +12,28 @@ $ gunzip -c asinex.smi.gz | head -1
 COc1cc(N/N=C/c2ccccc2O)ncn1	BAS-00132206
 ```
 
-- <a href="Databases/asinex.smi.gz" download>asinex.smi.gz (575,299 compounds)</a>
-- <a href="Databases/chembridge.smi.gz" download>chembridge.smi.gz (790,403 compounds)</a>
-- <a href="Databases/chemdiv.smi.gz" download>chemdiv.smi.gz (1,133,904 compounds)</a>
-- <a href="Databases/chemspace.1.smi.gz" download>chemspace.1.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.2.smi.gz" download>chemspace.2.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.3.smi.gz" download>chemspace.3.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.4.smi.gz" download>chemspace.4.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.5.smi.gz" download>chemspace.5.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.6.smi.gz" download>chemspace.6.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.7.smi.gz" download>chemspace.7.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.8.smi.gz" download>chemspace.8.smi.gz (800,299 compounds)</a>
-- <a href="Databases/chemspace.9.smi.gz" download>chemspace.9.smi.gz (800,295 compounds)</a>
-- <a href="Databases/enamine.1.smi.gz" download>enamine.1.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.2.smi.gz" download>enamine.2.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.3.smi.gz" download>enamine.3.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.4.smi.gz" download>enamine.4.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.5.smi.gz" download>enamine.5.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.6.smi.gz" download>enamine.6.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.7.smi.gz" download>enamine.7.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.8.smi.gz" download>enamine.8.smi.gz (457,757 compounds)</a>
-- <a href="Databases/enamine.9.smi.gz" download>enamine.9.smi.gz (457,752 compounds)</a>
-- <a href="Databases/lifechemicals.smi.gz" download>lifechemicals.smi.gz (545,400 compounds)</a>
+- <a href="Databases/asinex.smi.gz" download>asinex.smi.gz</a> (575,299 compounds)
+- <a href="Databases/chembridge.smi.gz" download>chembridge.smi.gz</a> (790,403 compounds)
+- <a href="Databases/chemdiv.smi.gz" download>chemdiv.smi.gz</a> (1,133,904 compounds)
+- <a href="Databases/chemspace.1.smi.gz" download>chemspace.1.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.2.smi.gz" download>chemspace.2.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.3.smi.gz" download>chemspace.3.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.4.smi.gz" download>chemspace.4.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.5.smi.gz" download>chemspace.5.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.6.smi.gz" download>chemspace.6.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.7.smi.gz" download>chemspace.7.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.8.smi.gz" download>chemspace.8.smi.gz</a> (800,299 compounds)
+- <a href="Databases/chemspace.9.smi.gz" download>chemspace.9.smi.gz</a> (800,295 compounds)
+- <a href="Databases/enamine.1.smi.gz" download>enamine.1.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.2.smi.gz" download>enamine.2.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.3.smi.gz" download>enamine.3.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.4.smi.gz" download>enamine.4.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.5.smi.gz" download>enamine.5.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.6.smi.gz" download>enamine.6.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.7.smi.gz" download>enamine.7.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.8.smi.gz" download>enamine.8.smi.gz</a> (457,757 compounds)
+- <a href="Databases/enamine.9.smi.gz" download>enamine.9.smi.gz</a> (457,752 compounds)
+- <a href="Databases/lifechemicals.smi.gz" download>lifechemicals.smi.gz</a> (545,400 compounds)
 
 You can download these files by clicking the links, or using the following commands from within a Python script (exemplified for the Asinex library):
 
