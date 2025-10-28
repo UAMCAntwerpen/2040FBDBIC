@@ -52,7 +52,7 @@ with gzip.open(BytesIO(response.content), mode='rt', encoding='utf-8') as f:
 print(lines[:5])  # preview first 5 lines
 ```
 
-It may be that identical compounds can be found across multiple databases, so a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a Python script and keep only the unique ones using a dictionary in which the key is the ```SMILES``` and the value is the ```CODE``` of each compound:
+It may be that identical compounds can be found across multiple databases, so a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a ```python``` script and keep only the unique ones using a dictionary in which the key is the ```SMILES``` and the value is the ```CODE``` of each compound:
 
 ```python
 import gzip
