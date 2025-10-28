@@ -5,19 +5,11 @@ title: Databases
 
 # Databases
 
-Here you can find a number of compound databases that you can download for use in your own project work.
-
-
-#### Smiles files:
-
-These are files that contain the SMILES and corresponding CODE's of the compounds that can be purchased from the given vendors. Each line
-is composed of the following format:
+Here you can find a number of compound databases that you can download for use in your own project work. These are files that contain the ```SMILES``` and corresponding ```CODE``` of the compounds that can be purchased from the given vendors. Each line is composed of the following format:
 
 ```bash
-$ gunzip -c asinex.smi.gz | head -3
+$ gunzip -c asinex.smi.gz | head -1
 COc1cc(N/N=C/c2ccccc2O)ncn1	BAS-00132206
-C#Cc1ccc(C#C)cc1	BAS-00293357
-Cc1nonc1OCCn1c([N+](=O)[O-])cnc1C	BAS-00505574
 ```
 
 - <a href="Databases/asinex.smi.gz" download>asinex.smi.gz (575,299 compounds)</a>
@@ -43,7 +35,24 @@ Cc1nonc1OCCn1c([N+](=O)[O-])cnc1C	BAS-00505574
 - <a href="Databases/enamine.9.smi.gz" download>enamine.9.smi.gz (457,752 compounds)</a>
 - <a href="Databases/lifechemicals.smi.gz" download>lifechemicals.smi.gz (545,400 compounds)</a>
 
-It may be that identical compounds can be found across multiple databases, so before using a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a Python script and keep only the unique ones using a dictionary in which the keys are the SMILES and the values are the CODE's:
+You can download these files by clicking the links, or using the following commands from within a Python script (exemplified for the Asinex library):
+
+```python
+import requests
+import gzip
+from io import BytesIO
+
+url = "https://raw.githubusercontent.com/UAMCAntwerpen/2040FBDBIC/master/Databases/asinex.smi.gz"
+response = requests.get(url)
+response.raise_for_status()  # ensure download succeeded
+
+with gzip.open(BytesIO(response.content), mode='rt', encoding='utf-8') as f:
+    lines = f.read().splitlines()
+
+print(lines[:5])  # preview first 5 lines
+```
+
+It may be that identical compounds can be found across multiple databases, so before using a filtering step should be implemented to keep only the unique compounds. This can be done in multiple ways, but a common one is to read files into a Python script and keep only the unique ones using a dictionary in which the key is the ```SMILES```` and the value is the ```CODE``` of each compound:
 
 ```python
 import gzip
@@ -86,22 +95,5 @@ for i in range(1,10):
 fo = open("merged.smi", "w")
 for SMILES, CODE in SMILES2CODE.items(): fo.write("%s\t%s\n" % (SMILES, CODE))
 fo.close()
-```
-
-You can download these files by clicking the links, or using the following commands from within a Python script (exemplified for the Asinex library):
-
-```python
-import requests
-import gzip
-from io import BytesIO
-
-url = "https://raw.githubusercontent.com/UAMCAntwerpen/2040FBDBIC/master/Databases/asinex.smi.gz"
-response = requests.get(url)
-response.raise_for_status()  # ensure download succeeded
-
-with gzip.open(BytesIO(response.content), mode='rt', encoding='utf-8') as f:
-    lines = f.read().splitlines()
-
-print(lines[:5])  # preview first 5 lines
 ```
 
