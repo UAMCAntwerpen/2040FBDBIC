@@ -14,7 +14,7 @@ These are files that contain the SMILES and corresponding CODE's of the compound
 is composed of the following format:
 
 ```bash
-$ head -3 asinex.smi
+$ gunzip -c asinex.smi.gz | head -3
 COc1cc(N/N=C/c2ccccc2O)ncn1	BAS-00132206
 C#Cc1ccc(C#C)cc1	BAS-00293357
 Cc1nonc1OCCn1c([N+](=O)[O-])cnc1C	BAS-00505574
@@ -90,8 +90,18 @@ fo.close()
 
 You can download these files by clicking the links, or using the following commands from within a Python script (exemplified for the Asinex library):
 
-'''python
+```python
+import requests
+import gzip
+from io import BytesIO
+
 url = "https://raw.githubusercontent.com/UAMCAntwerpen/2040FBDBIC/master/Databases/asinex.smi.gz"
-asinex = requests.get(url).text.split("\n")
-'''
+response = requests.get(url)
+response.raise_for_status()  # ensure download succeeded
+
+with gzip.open(BytesIO(response.content), mode='rt', encoding='utf-8') as f:
+    lines = f.read().splitlines()
+
+print(lines[:5])  # preview first 5 lines
+```
 
