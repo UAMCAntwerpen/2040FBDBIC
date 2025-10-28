@@ -56,44 +56,33 @@ It may be that identical compounds can be found across multiple databases, so a 
 
 ```python
 import gzip
+from pathlib import Path
 
 SMILES2CODE = {}
-filenames = ['asinex.smi.gz', 'chembridge.smi.gz', 'chemdiv.smi.gz', 'lifechemicals.smi.gz']
-for filename in filenames:
-	with gzip.open(filename,'rt') as f:
-		for LINE in f.readlines():
-			LINE = LINE.strip()
-			if LINE is None or LINE == "": continue
-			FIELDS = LINE.split()
-			if len(FIELDS) != 2: continue
-			SMILES = FIELDS[0]
-			CODE = FIELDS[1]
-			SMILES2CODE[SMILES] = CODE
 
-for i in range(1,10):
-	with gzip.open("chemspace.%d.smi.gz" % (i),'rt') as f:
-		for LINE in f.readlines():
-			LINE = LINE.strip()
-			if LINE is None or LINE == "": continue
-			FIELDS = LINE.split()
-			if len(FIELDS) != 2: continue
-			SMILES = FIELDS[0]
-			CODE = FIELDS[1]
-			SMILES2CODE[SMILES] = CODE
-			
-for i in range(1,10):
-	with gzip.open("enamine.%d.smi.gz" % (i),'rt') as f:
-		for LINE in f.readlines():
-			LINE = LINE.strip()
-			if LINE is None or LINE == "": continue
-			FIELDS = LINE.split()
-			if len(FIELDS) != 2: continue
-			SMILES = FIELDS[0]
-			CODE = FIELDS[1]
-			SMILES2CODE[SMILES] = CODE
-	
-fo = open("merged.smi", "w")
-for SMILES, CODE in SMILES2CODE.items(): fo.write("%s\t%s\n" % (SMILES, CODE))
-fo.close()
+def load_gz_lines(path):
+    with gzip.open(path, mode='rt', encoding='utf-8', errors='replace') as f:
+        for line in f:
+            line = line.strip()
+            if not line: continue
+            # keep first two fields; ignore extras if present
+            fields = line.split(maxsplit=1)
+            if len(fields) != 2: continue
+            smiles, code = fields
+            SMILES2CODE[smiles] = code  # last one wins on duplicates
+
+for filename in ['asinex.smi.gz', 'chembridge.smi.gz', 'chemdiv.smi.gz', 'lifechemicals.smi.gz']:
+    load_gz_lines(filename)
+
+for i in range(1, 10):
+    load_gz_lines(f"chemspace.{i}.smi.gz")
+
+for i in range(1, 10):
+    load_gz_lines(f"enamine.{i}.smi.gz")
+
+out_path = Path("merged.smi")
+with out_path.open("w", encoding="utf-8", newline="") as fo:
+    for smiles, code in SMILES2CODE.items():
+        fo.write(f"{smiles}\t{code}\n")
 ```
 
