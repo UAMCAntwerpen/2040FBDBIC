@@ -43,8 +43,8 @@ To practice the lessons learned, we make use of a <a href="https://teaching2025-
 
 Tutorials of the different exercises can be downloaded from these links:
 
-- <a href="Topic_03/Pharmacophore_Searching.pdf" download>A pharmacophore searching exercise</a> [pdf]
 - <a href="Topic_03/gb-docking-ls.pdf" download>A protein-ligand docking exercise</a> [pdf]
+- <a href="Topic_03/Pharmacophore_Searching.pdf" download>A pharmacophore searching exercise</a> [pdf]
 - <a href="Topic_03/bc-sbvs-ls.pdf" download>A structure-based virtual screening exercise</a> [pdf]
 
 
