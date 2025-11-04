@@ -21,7 +21,8 @@ This course takes one semester, and the five topics are covered over a total of 
 |:-------|:--------------------------------------------------------------------------------|
 | Oct 29 | <a href="Topic_03/Slides_03.pdf" download>Lecture slides</a> |
 | Nov 03 | <a href="Topic_03/gb-docking-ls.pdf" download>Schrodinger docking exercise</a> |
-| Nov 05 | <a href="Topic_03/Pharmacophore_Searching.pdf" download>Schrodinger pharmacophore searching exercise</a><br><a href="Topic_03/bc-sbvs-ls.pdf" download>Schrodinger virtual screening exercise</a> | Nov 13 | Own computational drug discovery project: brainstorm and application |
+| Nov 07 | <a href="Topic_03/Pharmacophore_Searching.pdf" download>Schrodinger pharmacophore searching exercise</a><br><a href="Topic_03/bc-sbvs-ls.pdf" download>Schrodinger virtual screening exercise</a> |
+| Nov 13 | Own computational drug discovery project: brainstorm and application |
 | Nov 17 | Own computational drug discovery project: application and results |
 
 
