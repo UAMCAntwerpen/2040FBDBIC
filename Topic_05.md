@@ -7,7 +7,7 @@ title: Topic 5
 
 In the first part of this topic, you will learn how artificial intelligence and computational drug design are integrated in the pharmaceutical industry. In the second part, aspects of how virtual reality can ve used to visualise protein structures and protein-ligand complexes is illustrated.
 
-The AI part of this course is prepared and presented by Dr. Dries Van Rompay, a senior scientist at Johnson & Johnson in Beerse.
+The AI part of this course is prepared and presented by Dr. Kenneth Goossens, a senior scientist at SandBox AQ.
 
 
 #### Prepare yourself:
