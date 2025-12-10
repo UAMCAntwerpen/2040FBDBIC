@@ -37,9 +37,9 @@ This course takes one semester, and the dix topics are covered over a total of 1
 | Dec 09 | Guest lecture - TBD                                                               |
 
 
-| Date   | [Topic 6. Artificial intelligence and VR in computational drug design](Topic_06.md)  |
-|:-------|:-------------------------------------------------------------------------------------|
-| Dec 09 | Guest lecture - TBD                                                                  |
+| Date   | [Topic 6. Artificial intelligence in computational drug design](Topic_06.md)  |
+|:-------|:------------------------------------------------------------------------------|
+| Dec 09 | Guest lecture - TBD                                                           |
 
 
 
