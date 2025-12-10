@@ -53,7 +53,7 @@ Tutorials of the different exercises can be downloaded from these links:
 If you are finished with these exercises, then you are ready to start working on your own virtual drug design project. The steps that need to be followed are:
 
 1. Open the <a href="https://teaching2025-eu.gcp.tsg.schrodinger.com/workstation/#/" target="_blank">virtual workstation</a> and create a workfolder on the desktop.
-2. Download the compound library into this workfolder. You can do by opening a terminal, move into the workfolder, and run this command `wget https://github/com/UAMCAntwerpen/2040FBDBIC/raw/master/Project-materials/2023-2024/LigPrep_Enamine_Discovery_Diversity_Set.maegz`.
+2. Download the compound library into this workfolder. You can do by opening a terminal, move into the workfolder, and run this command `wget https://github.com/UAMCAntwerpen/2040FBDBIC/raw/master/Project-materials/2023-2024/LigPrep_Enamine_Discovery_Diversity_Set.maegz`.
 3. Start Maestro and set the workfolder as being the default folder.
 4. Download your protein of interest from the PDB and prepare as usual. Make sure to optimise the hydrogen atom positions.
 5. Generate a docking grid, and make sure you note the name that the grid was given (it is written in de workfolder).
@@ -62,3 +62,7 @@ If you are finished with these exercises, then you are ready to start working on
 8. Do not close the virtual workstation as long as the job is running.
 
 A tutorial is available on <a href="https://youtu.be/bX4-nFmLkjM?si=tFrrmJxgkvNSgjhv" target="_blank">YouTube</a>. In this tutorial, it is also shown how you can submit jobs that take a long time by specifying multiple processor cores on the virtual workstation.
+
+When finished, you can move to the next topic:
+
+- [Topic 4: Force fields, molecular mechanics and dynamics](Topic_04.md)
