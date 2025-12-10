@@ -1,2 +1,7 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+/* Make top navigation links slightly smaller to fit more labels */
+.site-nav .page-link {
+  font-size: 0.95rem;
+}
