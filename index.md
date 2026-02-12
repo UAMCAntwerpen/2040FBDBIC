@@ -7,7 +7,9 @@ This course introduces computational drug design and chemo-informatics — disci
 
 All course materials and code examples are available in this repository. The course is part of the <a href="https://www.uantwerpen.be/nl/studeren/aanbod/alle-opleidingen/biochemie-en-biotechnologie/master/studieprogramma/" target="_blank">Master of Biotechnology</a> and the <a href="https://www.uantwerpen.be/en/study/programmes/all-programmes/pharmaceutical-sciences-programmes/master/drug-development-pharmacist/" target="_blank">Master of Drug Development: Pharmacist</a> programmes at the University of Antwerp.
 
-The course is organized into four main **topics**:
+This course illustrates a typical workflow used in computational drug design. Throughout the course, this workflow is demonstrated using the enzyme trypsin as a model system, for which potential inhibitors will be identified and evaluated. The objective is not only to understand the individual computational techniques, but also to see how they fit together into a coherent drug discovery pipeline. Students are encouraged to use this example as inspiration for applying the same strategy to their own protein target. A typical workflow consists of four main steps: (1) gathering and analysing prior knowledge about the protein of interest and preparing its crystal structure for computational studies; (2) preparing a ligand database for subsequent docking experiments; (3) performing molecular docking to identify promising candidate molecules; and (4) refining and validating the results through molecular dynamics (MD) simulations.
+
+The course is therefore organized into four main **topics**:
 
 1. [Gathering information about your protein target](01-Topic/index.md)
 2. [Working with small molecules in silico](02-Topic/index.md)
