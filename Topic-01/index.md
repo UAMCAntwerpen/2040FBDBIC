@@ -3,7 +3,7 @@ layout: default
 title: Topic 1
 ---
 
-# Topic 1 - Gathering information about your protein target
+# Topic 1 - Representing molecules in the computer
 
 In this part you will learn how molecules are stored and manipulated by the computer. You will learn about the different formats, and you will write your first chemo-informatics code.
 

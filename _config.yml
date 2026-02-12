@@ -12,10 +12,10 @@ author:
   email: "hans.dewinter@uantwerpen.be"
 
 header_pages:
-  - Topic_01/index.md
-  - Topic_02/index.md
-  - Topic_03/index.md
-  - Topic_04/index.md
+  - 01-Topic/index.md
+  - 02-Topic/index.md
+  - 03-Topic/index.md
+  - 04-Topic/index.md
 
 # Google Analytics measurement ID
 google_analytics: G-4DZ5T3ML68
