@@ -1,14 +1,12 @@
 # 2040FBDBIC - Chemo-informatics and computational drug design
 
-All code and course materials that are used in the course of "Chemo-informatics and computational drug design" at the University of Antwerp can be found in this repository. 
+Course materials for "Chemo-informatics and computational drug design" at the University of Antwerp.
 
-The course is best viewed at <a href="https://uamcantwerpen.github.io/2040FBDBIC/" target="_blank">https://uamcantwerpen.github.io/2040FBDBIC/</a>
+Start with the notebooks in order:
 
+- [Notebook-00-Introduction.ipynb](Notebook-00-Introduction.ipynb)
+- [Notebook-01-Working-with-proteins.ipynb](Notebook-01-Working-with-proteins.ipynb)
+- [Notebook-02-Working-with-small-molecules.ipynb](Notebook-02-Working-with-small-molecules.ipynb)
+- [Notebook-03-Building-ML-models.ipynb](Notebook-03-Building-ML-models.ipynb)
+- [Notebook-04-Building-database-of-MDM2-binders.ipynb](Notebook-04-Building-database-of-MDM2-binders.ipynb)
 
-> **Note**
-> This course and accompanying course material has been developed with financial support of the [European Union Recovery and Resilience Facility](https://www.esf-vlaanderen.be/herstel-en-veerkrachtfaciliteit-van-de-europese-unie-rrf) (RRF).
-
-
-<pre>
-<img src="https://github.com/UAMCAntwerpen/2040FBDBIC/blob/master/assets/img/rrf_logo.png" width="300px">
-</pre>
