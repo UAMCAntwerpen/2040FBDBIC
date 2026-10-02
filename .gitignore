@@ -4,7 +4,7 @@ run-local-server.sh
 add-commit-push.sh
 
 ~$Planning.xlsx
-~$Planningg.xlsx
+~$Planning.xlsx
 
 # Everything the notebooks generate is written to this folder
 scratch/
