@@ -10,4 +10,5 @@ Start with the notebooks in order:
 - [Notebook-3-Building-ML-models.ipynb](Notebook-3-Building-ML-models.ipynb)
 - [Notebook-4-Building-database-of-MDM2-binders.ipynb](Notebook-4-Building-database-of-MDM2-binders.ipynb)
 - [Notebook-5-pharmacophore-searching.ipynb](Notebook-5-pharmacophore-searching.ipynb)
+- [Notebook-6-molecular-docking.ipynb](Notebook-6-molecular-docking.ipynb)
 

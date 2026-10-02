@@ -1,0 +1,6 @@
+compound,chembl_id,median_pchembl,min_pchembl,max_pchembl,n_measurements
+Nutlin-3a,CHEMBL191334,7.05,4.16,8.19,40
+SAR405838,CHEMBL2381408,9.06,8.0,9.06,12
+Siremadlin,CHEMBL3653256,9.68,9.64,9.68,4
+NVP-CGM097,CHEMBL3601398,8.77,5.0,9.1,6
+Navtemadlin,CHEMBL3125702,9.22,9.0,10.42,7
