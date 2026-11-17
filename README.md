@@ -12,3 +12,4 @@ Start with the notebooks in order:
 - [Notebook-5-pharmacophore-searching.ipynb](Notebook-5-pharmacophore-searching.ipynb)
 - [Notebook-6-molecular-docking.ipynb](Notebook-6-molecular-docking.ipynb)
 
+Last updated: 2026K17
