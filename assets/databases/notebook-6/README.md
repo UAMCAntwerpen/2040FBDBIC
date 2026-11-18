@@ -10,25 +10,7 @@ runs without an internet connection (as on the CalcUA compute nodes).
 | `known_inhibitors_potency.csv` | Median biochemical potency (pChEMBL) of the five validation inhibitors of notebook 5, from ChEMBL. |
 | `pharmacophore_refined_collection_reference.csv` | A copy of `scratch/pharmacophore_refined_collection.csv` from the reference run of notebook 5 (116 compounds). Only used when a student has not run notebooks 4 and 5. |
 
-## Software environment (important)
-
-The notebook needs **AutoDock Vina 1.2.7**, whose PyPI wheels cover **Python 3.8-3.12 only** (there
-is no cp313 or cp314 wheel, so `pip install vina` on Python 3.13+ attempts a source build and
-fails). conda-forge does provide py313 and py314 builds. The other notebooks of this course run on
-Python 3.13, so this is the one notebook that may need an environment of its own:
-
-```
-conda create -n docking -c conda-forge python=3.12 vina
-conda activate docking
-pip install meeko rdkit py3Dmol pandas numpy matplotlib tqdm jupyter
-```
-
-The notebook checks the Python version in its first code cell and prints this advice if needed.
-It was developed and tested with Vina 1.2.7, Meeko 0.8.0, RDKit 2026.03.6 on Python 3.12.14.
-
 ## How the receptor files were made
-
-Software: Meeko 0.8.0, RDKit 2026.03, Python 3.12.
 
 1. Start from `assets/databases/notebook-5/4HG7.pdb` (MDM2 residues 18-108, chain A, 1.6 A,
    with the E69A/K70A surface-entropy mutations of the crystallised construct).
