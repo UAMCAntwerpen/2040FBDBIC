@@ -1,14 +1,8 @@
 .ipynb_checkpoints/
+.vscode/
+.DS_Store
 
-run-local-server.sh
-add-commit-push.sh
-
-~$Planning.xlsx
-~$Planning.xlsx
-
-# Everything the notebooks generate is written to this folder
 scratch/
 
-2040FBDBIC.code-workspace
-
 CLAUDE.md
+
